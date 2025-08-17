@@ -39,14 +39,6 @@ function SocialLinks() {
           <FaFacebook />
         </a>
         <a
-          href="https://linkedin.com/in/YOUR_USERNAME"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ color: 'white' }}
-        >
-          <FaLinkedin />
-        </a>
-        <a
           href="mailto:YOUR_EMAIL@example.com"
           style={{ color: 'white' }}
         >

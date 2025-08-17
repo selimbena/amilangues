@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/icon.jpeg'
+import logo from '../assets/amliangues.svg'
 import { BsBorderStyle } from 'react-icons/bs';
 
 function About() {

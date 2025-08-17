@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/icon.jpeg';
+import logo from '../assets/amliangues.svg';
 import LanguageSwitcher from './LanguageSwitcher.jsx'
 
 function HeroSection() {
@@ -32,12 +32,12 @@ function HeroSection() {
         <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
 
             {/* Title */}
-            <div style={{ display: 'flex' }}>
-                <img
-                    src={logo}
-                    alt="Amilangues Logo"
-                    style={{ width: '50px', height: '50px', borderRadius: '8px', marginRight: '1.5rem' }}
-                />
+            <div style={{ backgroundColor: 'white', borderRadius: '8px', marginRight: '1.5rem' }}>
+              <img
+                src={logo}
+                alt="Amilangues Logo"
+                style={{ width: 50, height: 50 }}
+              />
             </div>
 
             
