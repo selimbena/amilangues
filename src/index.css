@@ -1,0 +1,17 @@
+html, body, #root {
+  margin: 0;
+  font-family: 'Montserrat', 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-padding-top: 80px;
+  scroll-behavior: smooth;
+}
+
+input, textarea, button {
+  font-family: inherit;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
