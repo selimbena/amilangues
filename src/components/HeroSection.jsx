@@ -44,16 +44,16 @@ function HeroSection() {
             {/* Links */}
             <div style={{ display: 'flex', gap: '1.5rem' }}>
             <a href="#home" style={{ color: 'white', textDecoration: 'none' }}>
-                Home
+                Accueil
             </a>
             <a href="#courses" style={{ color: 'white', textDecoration: 'none' }}>
-                Courses
+                Cours
             </a>
             <a href="#translations" style={{ color: 'white', textDecoration: 'none' }}>
-                Translations
+                Traduction
             </a>
             <a href="#about" style={{ color: 'white', textDecoration: 'none' }}>
-                About
+                À propos
             </a>
             <a href="#contact" style={{ color: 'white', textDecoration: 'none' }}>
                 Contact
@@ -62,10 +62,10 @@ function HeroSection() {
 
         </div>
 
-        {/* Language Button */}
+        {/* Language Button 
         <div style={{ display: 'flex', gap: '1.5rem' }}>
             <LanguageSwitcher />            
-        </div>
+        </div>*/}
       </nav>
     </section>
   );

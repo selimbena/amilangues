@@ -5,6 +5,7 @@ pkgs.mkShell {
     pkgs.nodejs       # Node.js (includes npm)
     pkgs.yarn         # Optional: Yarn package manager, remove if you want to use npm only
     pkgs.glibcLocales
+    pkgs.git
   ];
 
   shellHook = ''

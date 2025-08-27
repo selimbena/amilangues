@@ -14,27 +14,11 @@ function TranslationServices() {
         textAlign: 'center'
     }}>
       <h2 style={{ textAlign: 'center', color: 'black', marginBottom: '1rem' }}>
-        Certified Translation Services
+        Service de traduction certifiée en Allemagne 
       </h2>
       <p style={{ maxWidth: '600px', margin: '0 auto 5rem auto', fontSize: '1.1rem', lineHeight: '1.5' }}>
-        We provide state-certified translations recognized by government institutions, courts, and official bodies. Our expert translators ensure accuracy, confidentiality, and timely delivery for all your important documents.
+        Sur demande, nous proposons également des traductions certifiées en Allemagne (français-allemand, allemand-français). Il s'agit de traductions professionnelles pour des actes officiels, des certificats, des documents judiciaires, des contrats, des accords, des correspondances administratives, etc.. Si vous avez besoin d'une traduction effectuée par un traducteur assermenté en Allemagne, vous êtes au bon endroit. Veuillez vérifier au préalable si vous avez besoin d'une traduction standard ou certifiée.
       </p>
-
-      <h3 style={{ fontWeight: '600', marginBottom: '1rem' }}>We translate:</h3>
-      <ul style={{ listStyle: 'disc', textAlign: 'left', maxWidth: '20rem', margin: '0 auto 2rem auto' }}>        <li>Birth & marriage certificates</li>
-        <li>Legal contracts & agreements</li>
-        <li>Academic diplomas & transcripts</li>
-        <li>Business documents</li>
-        <li>Immigration papers</li>
-      </ul>
-
-      <h3 style={{ fontWeight: '600', marginBottom: '1rem' }}>Why choose us?</h3>
-      <ul style={{ listStyle: 'disc', textAlign: 'left', maxWidth: '20rem', margin: '0 auto 2rem auto' }}>        <li>Native speakers with subject expertise</li>
-        <li>Officially certified and sworn translators</li>
-        <li>Strict confidentiality and data protection</li>
-        <li>Fast turnaround times</li>
-        <li>Competitive pricing</li>
-      </ul>
     </section>
   );
 }

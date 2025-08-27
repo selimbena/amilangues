@@ -19,18 +19,18 @@ function Contact() {
       <form style={{ display: 'flex', flexDirection: 'column', gap: '1rem', margin: '0 20rem'}}>
         <input
           type="text"
-          placeholder="Your Name"
+          placeholder="Votre Nom"
           style={{ padding: '0.75rem', fontSize: '1rem', borderRadius: '4px', border: '1px solid #ccc' }}
           required
         />
         <input
           type="email"
-          placeholder="Your Email"
+          placeholder="Votre Email"
           style={{ padding: '0.75rem', fontSize: '1rem', borderRadius: '4px', border: '1px solid #ccc' }}
           required
         />
         <textarea
-          placeholder="Your Message"
+          placeholder="Votre Message"
           rows="5"
           style={{ padding: '0.75rem', fontSize: '1rem', borderRadius: '4px', border: '1px solid #ccc' }}
           required
@@ -47,7 +47,7 @@ function Contact() {
             cursor: 'pointer',
           }}
         >
-          Send Message
+          Envoyer un message
         </button>
       </form>
     </section>
