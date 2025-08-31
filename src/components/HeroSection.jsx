@@ -12,7 +12,6 @@ function HeroSection() {
         color: 'white',
         padding: '1rem',
         textAlign: 'left',
-        marginBottom: '2rem',
         fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
         zIndex: 1000, // ensure it stays on top
   }}

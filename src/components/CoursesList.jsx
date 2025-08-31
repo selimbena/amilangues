@@ -17,10 +17,10 @@ function CoursesList() {
     <section
       id="courses"
       style={{
-        maxWidth: '800px',
-        margin: '0 auto',
-        padding: '1rem 2rem',
-      }}
+        maxWidth: 'auto',
+        padding: '1rem 20rem',
+        backgroundColor: '#fbfbfbff'
+    }}
     >
       <h2 style={{ textAlign: 'center', color: 'black', marginBottom: '1rem' }}>
         Les Cours d'Allemand
@@ -28,10 +28,7 @@ function CoursesList() {
       <ul
         style={{
           listStyle: 'none',
-          padding: 0,
-          borderRadius: '8px',
-          boxShadow: '0 4px 12px rgba(0, 0, 0, 0.1)',
-          backgroundColor: '#fff'
+          padding: '0px'
         }}
       >
         {courses.map(course => (
@@ -60,10 +57,13 @@ function CoursesList() {
             </li>
         ))}
       </ul>
-      <div style={{ maxWidth: '900px', margin: '0 auto', textAlign: 'center' }}>
-        <p style={{ fontSize: '1.1rem', color: '#666', textAlign: 'justify' }}>
+      <div style={{ textAlign: 'justify' }}>
+        <p style={{ fontSize: '1.1rem', color: '#666' }}>
           Toutes les mises à jour concernant le début et les horaires des cours seront publiées sur le site web. Les participants seront informés par e-mail ou par téléphone après avoir réglé les frais d'inscription. Les cours se déroulent à l'aide de documents PDF via Microsoft Teams.
-À la demande du groupe, le rythme des cours peut être ralenti.
+          À la demande du groupe, le rythme des cours peut être ralenti.
+        </p>
+        <p style={{ fontSize: '1.1rem', color: '#666', fontWeight: 'bold' }}>
+          Les tarifs varient selon le niveau – veuillez nous contacter sur WhatsApp pour des informations précises.
         </p>
       </div>
     </section>

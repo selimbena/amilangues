@@ -6,10 +6,9 @@ function Contact() {
       id="contact"
       style={{
         padding: '1rem 2rem',
-        backgroundColor: '#f5f5f5',
+        backgroundColor: '#fff',
         color: '#333',
         borderRadius: '8px',
-        margin: '1rem auto',
         boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
       }}
     >
