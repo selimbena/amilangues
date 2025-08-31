@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/amilangues/static/css/main.8de3d6ad.css",
-    "main.js": "/amilangues/static/js/main.eb21a207.js",
-    "static/js/453.b0c369df.chunk.js": "/amilangues/static/js/453.b0c369df.chunk.js",
-    "static/media/amliangues.svg": "/amilangues/static/media/amliangues.70a330c00033f0d68e7e176d36d8c597.svg",
-    "index.html": "/amilangues/index.html",
-    "main.8de3d6ad.css.map": "/amilangues/static/css/main.8de3d6ad.css.map",
-    "main.eb21a207.js.map": "/amilangues/static/js/main.eb21a207.js.map",
-    "453.b0c369df.chunk.js.map": "/amilangues/static/js/453.b0c369df.chunk.js.map"
+    "main.css": "/static/css/main.8de3d6ad.css",
+    "main.js": "/static/js/main.e5f82b4f.js",
+    "static/js/453.b0c369df.chunk.js": "/static/js/453.b0c369df.chunk.js",
+    "static/media/translation.png": "/static/media/translation.4a4c90f733d1167c180b.png",
+    "static/media/amliangues.svg": "/static/media/amliangues.70a330c00033f0d68e7e176d36d8c597.svg",
+    "index.html": "/index.html",
+    "main.8de3d6ad.css.map": "/static/css/main.8de3d6ad.css.map",
+    "main.e5f82b4f.js.map": "/static/js/main.e5f82b4f.js.map",
+    "453.b0c369df.chunk.js.map": "/static/js/453.b0c369df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8de3d6ad.css",
-    "static/js/main.eb21a207.js"
+    "static/js/main.e5f82b4f.js"
   ]
 }
