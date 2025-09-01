@@ -1,0 +1,84 @@
+/* HeroSection.css */
+
+.hero-section {
+  position: sticky;
+  top: 0;
+  background: black;
+  color: white;
+  padding: 1rem;
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  z-index: 1000;
+}
+
+.hero-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-left {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.hero-menu {
+  display: none;
+}
+
+.hero-logo {
+  background-color: white;
+  border-radius: 8px;
+  margin-right: 1.5rem;
+}
+
+.hero-logo img {
+  width: 50px;
+  height: 50px;
+}
+
+.hero-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.hero-links a {
+  color: white;
+  text-decoration: none;
+}
+
+/* 🔽 Responsive rules */
+@media (max-width: 768px) {
+  .hero-nav {
+    display: flex;                 /* horizontal layout */
+    justify-content: space-between; /* space between left and right */
+    align-items: center; 
+  }
+
+  .hero-left {
+    display: flex;
+    align-items: center;
+    gap: 2rem;                 /* smaller gap between logo and links */
+  }
+
+  .hero-links {
+    display: none;                 /* hidden on mobile by default */
+    flex-direction: column;        /* stack vertically when shown */
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    }
+
+    .hero-menu {
+    display: flex;            /* push this div to the far right */
+    }
+
+    .hero-menu button {
+    padding: 0.5rem 1rem;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+}

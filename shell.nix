@@ -6,6 +6,9 @@ pkgs.mkShell {
     pkgs.yarn         # Optional: Yarn package manager, remove if you want to use npm only
     pkgs.glibcLocales
     pkgs.git
+    pkgs.python311
+    pkgs.python311Packages.pip
+    pkgs.python311Packages.setuptools
   ];
 
   shellHook = ''

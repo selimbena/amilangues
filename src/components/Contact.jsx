@@ -15,7 +15,7 @@ function Contact() {
       <h2 style={{ marginTop: '0.5rem', marginBottom: '1rem', textAlign: 'center' }}>
         Contact
       </h2>
-      <form style={{ display: 'flex', flexDirection: 'column', gap: '1rem', margin: '0 20rem'}}>
+      <form style={{ display: 'flex', flexDirection: 'column', gap: '1rem'}}>
         <input
           type="text"
           placeholder="Votre Nom"

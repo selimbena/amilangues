@@ -13,7 +13,7 @@ function SocialLinks() {
         textAlign: 'center',
       }}
     >
-      <h2 style={{ marginBottom: '1.5rem', fontSize: '1.5rem' }}>Social Media Links</h2>
+      <h2 style={{ marginBottom: '1.5rem', fontSize: '1.5rem' }}>Contact</h2>
       <div
         style={{
           display: 'flex',
@@ -23,7 +23,7 @@ function SocialLinks() {
         }}
       >
         <a
-          href="https://instagram.com/YOUR_USERNAME"
+          href="https://instagram.com/amilangues"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: 'white' }}
@@ -31,7 +31,7 @@ function SocialLinks() {
           <FaInstagram />
         </a>
         <a
-          href="https://facebook.com/YOUR_USERNAME"
+          href="https://www.facebook.com/profile.php?id=61579205747963"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: 'white' }}
@@ -39,13 +39,13 @@ function SocialLinks() {
           <FaFacebook />
         </a>
         <a
-          href="mailto:YOUR_EMAIL@example.com"
+          href="mailto:amilangues@icloud.com"
           style={{ color: 'white' }}
         >
           <MdEmail />
         </a>
         <a
-          href="https://wa.me/YOUR_PHONE_NUMBER"
+          href="https://wa.me/4915774497212"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: 'white' }}

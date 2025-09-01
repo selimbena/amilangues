@@ -13,8 +13,8 @@ function LanguageSwitcher() {
       onClick={switchLanguage}
       style={{
         padding: '0.4rem 0.8rem',
-        backgroundColor: '#222',
-        color: 'white',
+        backgroundColor: 'white',
+        color: 'black',
         border: 'none',
         borderRadius: '4px',
         cursor: 'pointer',

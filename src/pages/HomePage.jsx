@@ -16,7 +16,7 @@ function HomePage() {
         <CoursesList/>
         <TranslationServices/>
         <About/>
-        <Contact/>
+        {/* <Contact/> */}
         <SocialLinks/>
         {/* <Impressum/> */}
       </main>

@@ -18,7 +18,7 @@ function CoursesList() {
       id="courses"
       style={{
         maxWidth: 'auto',
-        padding: '1rem 20rem',
+        padding: '1rem',
         backgroundColor: '#fbfbfbff'
     }}
     >
