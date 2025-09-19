@@ -1,0 +1,9 @@
+.courseList {
+    font-size: smaller;
+}
+
+@media (max-width: 750px) {
+  .courseList {
+    font-size: xx-small;
+  }
+}
