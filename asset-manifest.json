@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a7e18f30.css",
-    "main.js": "/static/js/main.a539ad1a.js",
+    "main.js": "/static/js/main.08f800e2.js",
     "static/js/453.b0c369df.chunk.js": "/static/js/453.b0c369df.chunk.js",
     "static/media/translation.png": "/static/media/translation.4a4c90f733d1167c180b.png",
     "static/media/amliangues.svg": "/static/media/amliangues.70a330c00033f0d68e7e176d36d8c597.svg",
+    "static/media/legal-agreement-contract-paper-icon.svg": "/static/media/legal-agreement-contract-paper-icon.0155289bafdb314704774a0d8be22a45.svg",
+    "static/media/governor-building-icon.svg": "/static/media/governor-building-icon.d853ab0e19c23d0f5df7863771e91747.svg",
+    "static/media/documents-search-icon.svg": "/static/media/documents-search-icon.bf6b002d7985b7d3533227d1b0430165.svg",
+    "static/media/language-icon.svg": "/static/media/language-icon.7d04f69fc45765fecb2ea62746767689.svg",
+    "static/media/indexing-pages-icon.svg": "/static/media/indexing-pages-icon.aea74d447a6fd1e2674611a5f13e8e4e.svg",
+    "static/media/email-mail-sent-icon.svg": "/static/media/email-mail-sent-icon.94ad9afd3c571b4c6b9747c6f954d379.svg",
+    "static/media/eye-icon.svg": "/static/media/eye-icon.0c85342377e038fd386f24f3621e55f3.svg",
     "index.html": "/index.html",
     "main.a7e18f30.css.map": "/static/css/main.a7e18f30.css.map",
-    "main.a539ad1a.js.map": "/static/js/main.a539ad1a.js.map",
+    "main.08f800e2.js.map": "/static/js/main.08f800e2.js.map",
     "453.b0c369df.chunk.js.map": "/static/js/453.b0c369df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7e18f30.css",
-    "static/js/main.a539ad1a.js"
+    "static/js/main.08f800e2.js"
   ]
 }
